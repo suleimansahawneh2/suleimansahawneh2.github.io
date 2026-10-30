@@ -31,7 +31,9 @@ I like taking messy data and figuring out what it says. I spent a year and a hal
 
 ## Projects
 
-This e-portfolio is built with Jekyll and the Minimal Mistakes theme and hosted on GitHub Pages. [Source code](https://github.com/suleimansahawneh2/practice-portfolio)
+This e-portfolio is built with Jekyll and the minimal theme and hosted on GitHub Pages. [Source code](https://github.com/suleimansahawneh2/practice-portfolio)
+
+- [How I Built My E-Portfolio with GitHub Pages](eportfolio-guide/): a step-by-step guide to how I built this site
 
 ## Skills
 

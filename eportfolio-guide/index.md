@@ -26,6 +26,13 @@ I replaced the default placeholder content in index.md with my own portfolio con
 
 ![Editing index.md](../images/index-edit.png)
 
+### Changes I made to the base minimal theme
+- Replaced the default placeholder text in index.md with my own content
+- Added my headshot and a short bio in the sidebar
+- Added sections for About, Experience, Education, Projects, Skills, and Leadership
+- Added a Skills table
+- Added a link to my GitHub profile
+
 ## Step 6: Commit my changes
 Each time I edited a file, I committed the change to the main branch on GitHub. GitHub then rebuilt the site automatically.
 
